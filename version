@@ -1,0 +1,7 @@
+{
+  "app": "FingerPrint",
+  "latest": "1.4.0",
+  "minRequired": "1.2.0",
+  "notes": "Corrige foto de empresa al cambiar de compañía; el cambio de empresa ahora bloquea la sesión admin.",
+  "downloadUrl": "https://github.com/GrupoCanaima/FingerPrint-updates/releases/download/v1.4.0/FingerPrint-1.4.0.zip"
+}
