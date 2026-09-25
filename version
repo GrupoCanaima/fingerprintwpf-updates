@@ -1,7 +1,7 @@
 {
   "app": "FingerPrint",
-  "latest": "1.0.2",
+  "latest": "1.1.0",
   "minRequired": "1.0.0",
-  "notes": "config prompt becomes modal",
-  "downloadUrl": "https://github.com/GrupoCanaima/fingerprintwpf-updates/releases/download/v1.0.2/GrupoCanaima.FingerPrint-win-Portable.zip"
+  "notes": "Soporte de pantalla completa y arreglos generales",
+  "downloadUrl": "https://github.com/GrupoCanaima/fingerprintwpf-updates/releases/download/v1.1.0/GrupoCanaima.FingerPrint-win-Portable.zip"
 }
