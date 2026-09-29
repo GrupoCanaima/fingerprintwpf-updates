@@ -2,6 +2,17 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.2.0] - 2026-09-29
+
+Rediseño de pantalla principal y arreglos visuales
+GrupoCanaima fallback icon
+Color coded categories (entrada, salida...)
+Registro de asistencia window increase 130% visual fix
+Revamped a lot of the code
+Main window full revamp
+Admin pallete
+company icon now has no white background
+
 ## [1.1.2] - 2026-09-28
 
 Soporte de pantalla completa y arreglos generales
