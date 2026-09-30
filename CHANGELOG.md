@@ -2,6 +2,11 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.2.2] - 2026-09-30
+
+Cambio visual (small)
+Changed entrada/salida.. text below fingeprint circle to company alias
+
 ## [1.2.1] - 2026-09-30
 
 Arreglos de compatibilidad
