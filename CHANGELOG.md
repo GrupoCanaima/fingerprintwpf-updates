@@ -2,6 +2,11 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.2.6] - 2026-09-30
+
+Arreglos de bugs
+Fixed taskbar over in fullscreen mode on older windows server instances (maintenance)
+
 ## [1.2.5] - 2026-09-30
 
 Arreglos de bugs
