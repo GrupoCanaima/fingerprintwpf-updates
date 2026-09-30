@@ -2,6 +2,12 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.2.5] - 2026-09-30
+
+Arreglos de bugs
+Fixed taskbar over in fullscreen mode on older windows server instances
+Main clock now displays time based on db, not machine time
+
 ## [1.2.4] - 2026-09-30
 
 QoL setup inicial
