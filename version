@@ -1,7 +1,7 @@
 {
   "app": "FingerPrint",
-  "latest": "1.2.3",
+  "latest": "1.2.4",
   "minRequired": "1.0.0",
-  "notes": "Cambio de setup inicial",
-  "downloadUrl": "https://github.com/GrupoCanaima/fingerprintwpf-updates/releases/download/v1.2.3/GrupoCanaima.FingerPrint-win-Portable.zip"
+  "notes": "QoL setup inicial",
+  "downloadUrl": "https://github.com/GrupoCanaima/fingerprintwpf-updates/releases/download/v1.2.4/GrupoCanaima.FingerPrint-win-Portable.zip"
 }
