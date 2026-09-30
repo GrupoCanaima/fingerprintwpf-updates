@@ -2,6 +2,12 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.2.3] - 2026-09-30
+
+Cambio de setup inicial
+Initial import by pos.exe.config
+Hid config import behind admin/options
+
 ## [1.2.2] - 2026-09-30
 
 Cambio visual (small)
