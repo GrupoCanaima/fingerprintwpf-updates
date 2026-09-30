@@ -2,6 +2,13 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.2.1] - 2026-09-30
+
+Arreglos de compatibilidad
+Update toast never appearing again after rejecting update
+Update toast being eliminated on category change (entrada, salida...)
+Removed variable weight on google sans font to improve compatibility
+
 ## [1.2.0] - 2026-09-29
 
 Rediseño de pantalla principal y arreglos visuales
