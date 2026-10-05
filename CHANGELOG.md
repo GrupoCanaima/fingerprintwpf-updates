@@ -2,6 +2,11 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.2.7] - 2026-10-05
+
+Arreglos visuales
+Registro de asistencia weekends were obscured slightly for easier reading.
+
 ## [1.2.6] - 2026-09-30
 
 Arreglos de bugs
