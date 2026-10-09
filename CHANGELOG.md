@@ -2,6 +2,15 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.2.8] - 2026-10-09
+
+Nueva ventana para verificar identidad y contraseñas iguales a la versión anterior
+New "Verificar identidad" window before Registro de asistencia: Huella / Contraseña switch like the main screen, clear verified and not-recognized states. The password tab only shows when someone has a password.
+Employee passwords follow the store setting (FBPASSWORDLOCALENABLED) like WinForms: only ADMIN, and only where the store allows it.
+Employee passwords accept ñ and accented letters, like WinForms.
+Login accepts passwords made only of spaces, like WinForms.
+Report password is no longer trimmed, so the protected Excel opens with exactly what was typed.
+
 ## [1.2.7] - 2026-10-05
 
 Arreglos visuales
