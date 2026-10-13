@@ -2,6 +2,13 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.2.9] - 2026-10-13
+
+Desde esta versión las actualizaciones se descargan e instalan solas, sin preguntar.
+Updates download in the background and install themselves after 10 minutes without use (or at the next start). The bottom bar shows the progress next to the version; "Reiniciar" installs right away. Never restarts while a dialog is open or another program is in front.
+Required updates no longer show a dialog: the line under the reader shows the progress and the kiosk restarts after one quiet minute.
+The download no longer looks stuck at 70%: that step (rebuilding the package from the small download) now shows as "Preparando" with a running clock.
+
 ## [1.2.8] - 2026-10-09
 
 Nueva ventana para verificar identidad y contraseñas iguales a la versión anterior
