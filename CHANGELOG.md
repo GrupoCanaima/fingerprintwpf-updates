@@ -2,6 +2,12 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.3.1] - 2026-10-19
+
+Versión de prueba del actualizador: sin cambios en el programa.
+Sirve para comprobar la instalación desde Admin → Actualizaciones; no hace falta instalarla.
+Incluye un ajuste interno del progreso de descarga, sin cambios visibles.
+
 ## [1.3.0] - 2026-10-19
 
 Las actualizaciones ya no se instalan solas: se instalan desde Admin → Actualizaciones.
