@@ -1,7 +1,7 @@
 {
   "app": "FingerPrint",
-  "latest": "1.3.0",
+  "latest": "1.3.1",
   "minRequired": "1.0.0",
-  "notes": "Las actualizaciones ya no se instalan solas: se instalan desde Admin → Actualizaciones.",
-  "downloadUrl": "https://github.com/GrupoCanaima/fingerprintwpf-updates/releases/download/v1.3.0/GrupoCanaima.FingerPrint-win-Portable.zip"
+  "notes": "Versión de prueba del actualizador: sin cambios en el programa.",
+  "downloadUrl": "https://github.com/GrupoCanaima/fingerprintwpf-updates/releases/download/v1.3.1/GrupoCanaima.FingerPrint-win-Portable.zip"
 }
