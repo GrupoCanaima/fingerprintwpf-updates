@@ -2,6 +2,11 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.2.10] - 2026-10-19
+
+El registro de asistencia se cierra solo tras 1 minuto sin uso.
+Registro de asistencia closes itself after 1 minute without activity, so nobody's history stays on screen.
+
 ## [1.2.9] - 2026-10-13
 
 Desde esta versión las actualizaciones se descargan e instalan solas, sin preguntar.
