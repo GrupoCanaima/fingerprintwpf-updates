@@ -2,6 +2,13 @@
 
 Todos los cambios notables de cada versión. La tarjeta dentro de la app muestra solo la primera línea; aquí va la historia completa.
 
+## [1.3.0] - 2026-10-19
+
+Las actualizaciones ya no se instalan solas: se instalan desde Admin → Actualizaciones.
+Nuevo panel Admin → Actualizaciones: versión instalada, buscar actualizaciones, descargar e instalar, novedades e historial de cambios.
+El programa sigue buscando versiones nuevas cada día, pero solo muestra un punto azul en el botón Actualizaciones; nada se descarga ni se instala sin que alguien lo pida.
+Una versión obligatoria bloquea el marcaje hasta que un administrador la instale desde el panel.
+
 ## [1.2.10] - 2026-10-19
 
 El registro de asistencia se cierra solo tras 1 minuto sin uso.
