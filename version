@@ -1,7 +1,7 @@
 {
   "app": "FingerPrint",
-  "latest": "1.2.10",
+  "latest": "1.3.0",
   "minRequired": "1.0.0",
-  "notes": "El registro de asistencia se cierra solo tras 1 minuto sin uso.",
-  "downloadUrl": "https://github.com/GrupoCanaima/fingerprintwpf-updates/releases/download/v1.2.10/GrupoCanaima.FingerPrint-win-Portable.zip"
+  "notes": "Las actualizaciones ya no se instalan solas: se instalan desde Admin → Actualizaciones.",
+  "downloadUrl": "https://github.com/GrupoCanaima/fingerprintwpf-updates/releases/download/v1.3.0/GrupoCanaima.FingerPrint-win-Portable.zip"
 }
